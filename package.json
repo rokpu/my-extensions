@@ -1,0 +1,24 @@
+{
+  "name": "my-extensions",
+  "version": "1.0.0",
+  "description": "This is a simple Chrome Extension that allows you to group and order links for quick access in your browser. It reads from a local `links.json` file that you can customize as needed.",
+  "main": "popup.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.33.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokpu/my-extensions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokpu/my-extensions/issues"
+  },
+  "homepage": "https://github.com/rokpu/my-extensions#readme"
+}

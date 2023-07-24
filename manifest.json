@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Link Display Extension",
+    "description": "Displays a dictionary of links with images",
+    "version": "1.0",
+    "permissions": [
+        "tabs"
+    ],
+    "browser_action": {
+        "default_icon": "images/icon.png",
+        "default_popup": "popup.html"
+    }
+}

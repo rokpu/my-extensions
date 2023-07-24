@@ -1,0 +1,23 @@
+{
+    "categoriesOrderList": [
+        "Productivity",
+        "Development"
+    ],
+    "links": {
+        "Figma": {
+            "link": "https://www.figma.com/files",
+            "img": "images/figma.png",
+            "category": "Productivity"
+        },
+        "Google": {
+            "link": "https://google.com/",
+            "img": "images/google.png",
+            "category": "Productivity"
+        },
+        "GitHub": {
+            "link": "https://github.com/",
+            "img": "images/github.png",
+            "category": "Development"
+        }
+    }
+}
